@@ -1,3 +1,4 @@
 # predict-the-safety-of-the-car
 
-![IMG_5613](https://github.com/Salsa28/predict-the-safety-of-the-car/assets/80502308/360cdbfd-de82-46e4-89d3-b78de5f71163)
+
+![Decision Tree](https://github.com/Salsa28/predict-the-safety-of-the-car/assets/80502308/7cb7270c-5602-405c-b10e-ccbb6d9d687f)
